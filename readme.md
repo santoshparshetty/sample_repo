@@ -4,3 +4,4 @@
 
 > mvn spring-boot:run
 > mvn --santosh
+> mvn chethan
